@@ -24,4 +24,7 @@ ____
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;                                                                                                                                       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55"/>&nbsp;
  </p>
+ 
+ ![BliM](https://user-images.githubusercontent.com/125944293/222265239-c536df22-6aaa-42f6-bc16-566760368280.gif)
+
 

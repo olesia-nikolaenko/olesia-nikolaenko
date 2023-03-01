@@ -7,7 +7,7 @@ ____
 [![Linkedin Badge](https://img.shields.io/badge/-Olesia_Nikolaenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/olesia-nikolaenko/)](https://www.linkedin.com/in/olesia-nikolaenko/)        [![Gmail Badge](https://img.shields.io/badge/-evavictorn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evavictorn@gmail.com)](mailto:evavictorn@gmail.com)
 ____
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1800&pause=3000&color=0E85F7&background=6ECF4200&center=true&vCenter=true&multiline=true&width=600&height=53&lines=🛠+Technologies+and+tools+I'm+working+with:" alt="Typing SVG" /></a> 
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1800&pause=3000&color=0E85F7&background=6ECF4200&center=true&vCenter=true&multiline=true&width=600&height=53&lines=🛠+Technologies+and+tools:" alt="Typing SVG" /></a> 
 </div>
 
 <img src="https://media.giphy.com/media/m3DAD130BjRYNisG0P/giphy.gif" title="Chrome" alt="Chrome" width="50" height="50"/>                              <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="55"/>       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;

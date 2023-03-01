@@ -2,7 +2,7 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/125944293/222014371-0c7f1aff-4383-4c2f-bbfc-b6c50eb342c7.png)
 
 ____
-<img src="https://user-images.githubusercontent.com/125944293/222006218-834e20bd-2f17-4d57-85df-b348cdec41f9.gif" width="70"/> How to find me:<div id="badges">
+<img src="https://user-images.githubusercontent.com/125944293/222006218-834e20bd-2f17-4d57-85df-b348cdec41f9.gif" width="70"/> **How to find me:**<div id="badges">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Olesia_Nikolaenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/olesia-nikolaenko/)](https://www.linkedin.com/in/olesia-nikolaenko/)        [![Gmail Badge](https://img.shields.io/badge/-evavictorn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evavictorn@gmail.com)](mailto:evavictorn@gmail.com)
 ____

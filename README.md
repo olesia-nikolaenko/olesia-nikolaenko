@@ -1,5 +1,8 @@
+# 🅗🅔🅨! 🅘'🅜 🅞🅛🅔🅢🅘🅐   🅝🅘🅚🅞🅛🅐🅔🅝🅚🅞
 
-![github-header-image (1)](https://user-images.githubusercontent.com/125944293/222014371-0c7f1aff-4383-4c2f-bbfc-b6c50eb342c7.png)
+𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 𝕨𝕚𝕥𝕙 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖 𝕚𝕟 ℚ𝔸 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝕒𝕟𝕕 𝕄𝕒𝕟𝕦𝕒𝕝 𝕋𝕖𝕤𝕥𝕚𝕟𝕘
+
+![170713ecea0449df54e43dcf926950bf](https://user-images.githubusercontent.com/125944293/224187223-e5cfac4b-7a52-432c-9235-ab2505cc9797.gif)
 
 ____
 <img src="https://user-images.githubusercontent.com/125944293/222006218-834e20bd-2f17-4d57-85df-b348cdec41f9.gif" width="70"/> **How to find me:**<div id="badges">
@@ -26,6 +29,4 @@ ____
 th="50" height="50"/>&nbsp;                                                                                                                                       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55"/>&nbsp;
  </p>
  
- ![BliM](https://user-images.githubusercontent.com/125944293/222265239-c536df22-6aaa-42f6-bc16-566760368280.gif)
-
-
+<img src="https://user-images.githubusercontent.com/125944293/222265239-c536df22-6aaa-42f6-bc16-566760368280.gif" width="100" lenght="50"/>

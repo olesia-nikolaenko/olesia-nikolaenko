@@ -5,7 +5,7 @@
 ![170713ecea0449df54e43dcf926950bf](https://user-images.githubusercontent.com/125944293/224187223-e5cfac4b-7a52-432c-9235-ab2505cc9797.gif)
 
 ____
-<img src="https://user-images.githubusercontent.com/125944293/222006218-834e20bd-2f17-4d57-85df-b348cdec41f9.gif" width="70"/> **How to find me:**<div id="badges">
+<img src="https://user-images.githubusercontent.com/125944293/222006218-834e20bd-2f17-4d57-85df-b348cdec41f9.gif" width="70"/> Ⓗⓞⓦ ⓣⓞ ⓕⓘⓝⓓ ⓜⓔ:<div id="badges">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Olesia_Nikolaenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/olesia-nikolaenko/)](https://www.linkedin.com/in/olesia-nikolaenko/)        [![Gmail Badge](https://img.shields.io/badge/-evavictorn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evavictorn@gmail.com)](mailto:evavictorn@gmail.com)
 ____
@@ -28,5 +28,8 @@ ____
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" wid![android-original-wordmark](https://user-images.githubusercontent.com/125944293/224173829-d63d2850-c8f8-49a1-a399-2e0ed183271d.svg)
 th="50" height="50"/>&nbsp;                                                                                                                                       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55"/>&nbsp;
  </p>
- 
-<img src="https://user-images.githubusercontent.com/125944293/222265239-c536df22-6aaa-42f6-bc16-566760368280.gif" width="100" lenght="50"/>
+
+____
+
+## 🅐🅑🅞🅤🅣 🅜🅔
+ℍ𝕠𝕓𝕓𝕚𝕖𝕤: 𝓅𝓁𝒶𝓎𝒾𝓃ℊ 𝒫𝒮5, ℯ𝓁ℯ𝒸𝓉𝓇𝒾𝒸 𝓈𝒸ℴℴ𝓉ℯ𝓇 𝓇𝒾𝒹𝒾𝓃ℊ, 𝒸ℴ𝓁ℴ𝓇𝒾𝓃ℊ
